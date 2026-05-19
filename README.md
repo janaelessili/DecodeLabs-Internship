@@ -212,4 +212,3 @@ This project was created as part of a learning internship. Feel free to use, mod
 
 ---
 
-*Built with ❤️ and Python*
