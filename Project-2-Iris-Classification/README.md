@@ -1,5 +1,5 @@
 # 🌸 Iris Data Classification Using AI
-### Project 2 — DecodeLabs Industrial Training Kit | Batch 2026
+### DecodeLabs — Week 2 Internship Project
 
 ---
 
